@@ -1,33 +1,26 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="fr">
-  {{ partial "head-impression.html" . }}
-<body>
-<main>
+	{{ partial "head-impression.html" . }}
+	<body>
+		<main>
+			<section>
+				<h1>{{ .Site.Title }}</h1>
 
-  <section>
-    <h1>{{ .Site.Title }}</h1>
+				{{ if eq .Type "posts" }}
+				<h2 itemprop="name headline" class="subtitle">{{ .Title }}</h2>
+				<h3>{{ .Description }}</h3>
+				<p class="meta"></p>
+				{{ end }} {{ if eq .Type "pages" }}
+				<h2 itemprop="name headline">{{ .Title }}</h2>
+				<h3>{{ .Description }}</h3>
+				{{ end }}
 
-      {{ if eq .Type "posts" }}
-      <h2 itemprop="name headline" class="subtitle">{{ .Title }}</h2>
-      <h3>{{ .Description }}</h3>
-      <p class="meta">
-        </p>
-      {{ end }}
-      {{ if eq .Type "pages" }}
-      <h2 itemprop="name headline">{{ .Title }}</h2>
-      <h3>{{ .Description }}</h3>
-      {{ end }}
-
-      <span itemprop="articleBody">
-        {{ if .Params.toc }}
-        <h3>Table des matières de la page</h3>
-        {{ .TableOfContents }}
-        {{ end }}
-      {{ .Content }}
-      </span>
-       
-
-    </section>
-  </main>
-</body>
+				<span itemprop="articleBody">
+					{{ if .Params.toc }}
+					<h3>Table of content</h3>
+					{{ .TableOfContents }} {{ end }} {{ .Content }}
+				</span>
+			</section>
+		</main>
+	</body>
 </html>

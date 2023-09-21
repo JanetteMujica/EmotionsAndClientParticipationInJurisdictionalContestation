@@ -1,37 +1,41 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="fr">
-  {{ partial "head.html" . }}
-<body>
-<main>
-    {{ partial "header.html" . }}
-  <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
+	{{ partial "head.html" . }}
+	<body>
+		<main>
+			{{ partial "header.html" . }}
+			<article
+				class="post h-entry"
+				itemscope
+				itemtype="http://schema.org/BlogPosting"
+				id="main"
+				role="article"
+				aria-label="Content"
+			>
+				{{ if eq .Type "posts" }}
+				<h1 class="post-title divided p-name" itemprop="name headline">
+					{{ .Params.Chapter }} - {{ .Title }}
+				</h1>
 
-      {{ if eq .Type "posts" }}
-      <h1 class="post-title divided p-name" itemprop="name headline">{{ .Params.Chapter }} - {{ .Title }}</h1>
-      
-      <!-- <div class="post-meta">
+				<!-- <div class="post-meta">
         <a href="impression.html">Version imprimable</a>
       </div> -->
-      {{ end }}
-      
-      {{ if eq .Type "pages" }}
-      <h1 class="post-title divided p-name" itemprop="name headline">{{ .Title }}</h1>
-      <!-- <div class="post-meta">
+				{{ end }} {{ if eq .Type "pages" }}
+				<h1 class="post-title divided p-name" itemprop="name headline">
+					{{ .Title }}
+				</h1>
+				<!-- <div class="post-meta">
         <a href="impression.html">Version imprimable</a>
       </div> -->
-      {{ end }}
+				{{ end }}
 
-      <div class="post-content e-content" itemprop="articleBody">
-        {{ if .Params.toc }}
-        <h3>Table des matières de la page</h3>
-        {{ .TableOfContents }}
-        {{ end }}
-      {{ .Content }}
-      </div>
-       
-
-    </article>
-    {{ partial "footer.html" . }}
-  </main>
-</body>
+				<div class="post-content e-content" itemprop="articleBody">
+					{{ if .Params.toc }}
+					<h3>Table of Contents</h3>
+					{{ .TableOfContents }} {{ end }} {{ .Content }}
+				</div>
+			</article>
+			{{ partial "footer.html" . }}
+		</main>
+	</body>
 </html>
