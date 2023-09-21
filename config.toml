@@ -1,24 +1,32 @@
-# MENU
-
 disableFastRender = true
 theme = "roman"
 [frontmatter]
 date = [":filename", ":default"]
+
 [[menu.main]]
 identifier = "about"
-name = "À propos"
-url = "/about/"
+name = "About"
+url = "/about"
 weight = 2
+
 [[menu.main]]
 identifier = "index"
-name = "Contenus"
+name = "Home"
 url = "/"
 weight = 1
+
+[[menu.main]]
+identifier = "bibliography"
+name = "Bibliography"
+url = "/bibliography"
+weight = 3
+
 [[menu.main]]
 identifier = "print"
-name = "Impression"
+name = "Print"
 url = "/print"
-weight = 3
+weight = 4
+
 [outputs]
 home = ["HTML"]
 page = ["HTML"]

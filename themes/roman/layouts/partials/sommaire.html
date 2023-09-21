@@ -1,15 +1,15 @@
 <section class="toc">
-    <h2>Sommaire</h2>
-    <ul class="posts-list">
-        {{range .Site.RegularPages.ByWeight}}
-        {{ if .Params.ebook }}
-        {{ else }}
-        <li class="post-item">
-            <a href="#{{.File.BaseFileName}}">
-                <span class="post-title" id="{{.Title}}">{{.Title}}{{ if .Params.chapter }} — {{.Params.chapter }}{{ end }}</span>
-            </a>
-        </li>
-        {{end}}
-        {{end}}
-      </ul>
+	<h2>Table of contents</h2>
+	<ul class="posts-list">
+		{{range .Site.RegularPages.ByWeight}} {{ if .Params.ebook }} {{ else }}
+		<li class="post-item">
+			<a href="#{{.File.BaseFileName}}">
+				<span class="post-title" id="{{.Title}}"
+					>{{.Title}}{{ if .Params.chapter }} — {{.Params.chapter }}{{ end
+					}}</span
+				>
+			</a>
+		</li>
+		{{end}} {{end}}
+	</ul>
 </section>
