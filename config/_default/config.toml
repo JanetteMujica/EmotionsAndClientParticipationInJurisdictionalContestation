@@ -1,7 +1,7 @@
 DefaultContentLanguage = "fr"
-baseURL = "/"
+baseURL = "http://localhost:1313/"
 disableFastRender = true
-disableKinds = ["categories"]
+disableKinds = []
 languageCode = "fr-fr"
 min_version = 0.3
 minify = false
