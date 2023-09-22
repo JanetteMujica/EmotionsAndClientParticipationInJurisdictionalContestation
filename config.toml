@@ -16,16 +16,10 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-identifier = "bibliography"
-name = "Bibliography"
-url = "/bibliography"
-weight = 3
-
-[[menu.main]]
 identifier = "print"
 name = "Print"
 url = "/print"
-weight = 4
+weight = 3
 
 [outputs]
 home = ["HTML"]

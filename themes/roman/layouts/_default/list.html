@@ -4,13 +4,17 @@
 	<body>
 		<header class="site-masthead">
 			<h1 class="gothic">{{ .Site.Params.titre }}</h1>
-			<h2>{{ .Site.Params.auteur }}</h2>
-			<h3>
+			<h2>
+				<span style="white-space: pre">{{ .Site.Params.auteur1 }}, </span>
+				<span style="white-space: pre">{{ .Site.Params.auteur2 }},</span>
+				<span style="white-space: pre">{{ .Site.Params.auteur3 }}.</span>
+			</h2>
+			<small>
 				In press at
 				<a href="https://doi.org/10.5465/amr.2020.0511"
 					>Academy&nbsp;of&nbsp;Management&nbsp;Review</a
 				>
-			</h3>
+			</small>
 			<img src="{{ .Site.Params.logo }}" style="width: 150px" />
 		</header>
 		<main class="home" id="main" role="main" aria-label="Content">
