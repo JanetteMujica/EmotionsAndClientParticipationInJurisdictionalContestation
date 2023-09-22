@@ -2421,7 +2421,7 @@
 		"source": "K10plus ISBN",
 		"title": "The outsourced self: what happens when we pay others to live our lives for us",
 		"title-short": "The outsourced self",
-		"editor": [
+		"author": [
 			{
 				"family": "Hochschild",
 				"given": "Arlie Russell"
@@ -3958,7 +3958,7 @@
 		"source": "Library of Congress ISBN",
 		"title": "Institutional change and healthcare organizations: from professional dominance to managed care",
 		"title-short": "Institutional change and healthcare organizations",
-		"editor": [
+		"author": [
 			{
 				"family": "Scott",
 				"given": "W. Richard"
@@ -3986,7 +3986,7 @@
 		"publisher-place": "Amsterdam",
 		"source": "K10plus ISBN",
 		"title": "Passion with an umbrella: Grassroots activists in the workplace.",
-		"editor": [
+		"author": [
 			{
 				"family": "Lounsbury",
 				"given": "Michael"
@@ -4281,7 +4281,8 @@
 		"title": "Emotions and identity in women’s self-help movements",
 		"author": [
 			{
-				"literal": "Taylor, V"
+				"family": "Taylor",
+				"given": "Verta"
 			}
 		],
 		"editor": [
