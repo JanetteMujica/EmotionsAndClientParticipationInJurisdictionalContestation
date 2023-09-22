@@ -1,8 +1,8 @@
-DefaultContentLanguage = "fr"
+DefaultContentLanguage = "en"
 baseURL = "http://localhost:1313/"
 disableFastRender = true
 disableKinds = []
-languageCode = "fr-fr"
+languageCode = "en-en"
 min_version = 0.3
 minify = false
 paginate = 999
