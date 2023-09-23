@@ -1,26 +1,36 @@
 <section class="toc">
-	<h2>Table of contents</h2>
-	<ul class="posts-list">
-		{{ $mainTitle := "" }}
-		<ul class="sub-list">
-			{{ range .Site.RegularPages.ByWeight }} {{ if and (not .Params.ebook) (not
-			.Params.subtitle) }}
-			<li class="post-item">
-				<a href="#{{ .File.BaseFileName }}">
-					<span class="post-title" id="{{ .Title }}">
-						{{ $mainTitle = .Title }} {{ .Title }} {{ if .Params.chapter }} — {{
-						.Params.chapter }}{{ end }}
-					</span>
-				</a>
-			</li>
-			{{ else if and (not .Params.ebook) .Params.subtitle }} {{ if ne $mainTitle
-			"" }}
-			<li class="post-item subtitle">
-				<span class="subtitle-title" style="color: red">
-					{{ .Title }} {{ if .Params.chapter }} — {{ .Params.chapter }}{{ end }}
-				</span>
-			</li>
-			{{ end }} {{ end }} {{ end }}
-		</ul>
-	</ul>
+  <h2>Table of Contents</h2>
+  <ul class="posts-list">
+      {{ $toc := .Site.Data.toc }}
+      {{ $currentLevel := 1 }}
+      <ul class="sub-list">
+          {{ range .Site.RegularPages.ByWeight }}
+              {{ with index $toc (sub .Weight 1) }}
+                  {{ if .subtitle }}
+                      {{ if ne $currentLevel 1 }}</ul></li>{{ end }}
+                      <li class="post-item parent-subtitle">
+                          <span class="subtitle-title" style="color: red">{{ .title }}</span>
+                          <ul>
+                      {{ $currentLevel = 2 }}
+                  {{ else }}
+                      <li class="post-item">
+                          <a href="#{{ .File.BaseFileName }}">
+                              <span class="post-title" id="{{ .Title }}">{{ .Title }}</span>
+                          </a>
+                      </li>
+                  {{ end }}
+              {{ else }}
+                  {{ if gt $currentLevel 1 }}</ul></li>{{ end }}
+                  {{ $currentLevel = 1 }}
+                  <li class="post-item">
+                      <a href="#{{ .File.BaseFileName }}">
+                          <span class="post-title" id="{{ .Title }}">{{ .Title }}</span>
+                      </a>
+                  </li>
+              {{ end }}
+          {{ end }}
+      </ul>
+  </ul>
 </section>
+
+

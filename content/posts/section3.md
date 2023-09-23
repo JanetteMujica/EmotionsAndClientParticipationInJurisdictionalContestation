@@ -1,5 +1,5 @@
 ---
-title: 'Blurred boundaries of the client concept'
+title: 'Section Blurred boundaries of the client concept'
 subtitle: true
 weight: 3
 bibFile: data/modified_bibliography.json
