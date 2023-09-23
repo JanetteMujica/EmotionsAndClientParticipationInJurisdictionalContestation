@@ -1,5 +1,6 @@
 ---
-title: "Section3"
+title: 'Blurred boundaries of the client concept'
+subtitle: true
 weight: 3
 bibFile: data/modified_bibliography.json
 ---
@@ -13,4 +14,3 @@ Before going further, we need to clarify what we mean by ‘client’ and acknow
 The clients we theorize about are of the second type, which is typical in health-related work domains {{< cite "Mayo-2021" >}}. It is also typical of other professional domains such as education [e.g., {{< cite "Neuman-2017" >}}, religion [e.g., {{< cite "Gutierrez-2010" >}} and law and order {{< cite "Cullors-2018" >}}. This type of client can be difficult to distinguish from members of the public, especially when the latter receive services unpredictably or sporadically; third-party payment and government mandates are involved; and/or the recipient of professional work do not explicitly consent to it {{< cite "Freidson-1989;Shapiro-1987" >}}.
 
 By acknowledging that a set of criteria to reliably distinguish between clients and non- clients appears elusive, we embrace the blurred boundaries of the client concept. Accordingly, we consider as a client any person on the receiving end of professional work and over whom professional prescriptions apply [cf. {{< cite "Freidson-1986" >}}, {{< cite "Hughes-1958" >}}. This definition emphasizes the interdependence of professions and clients insomuch as they need each other to exist.
-

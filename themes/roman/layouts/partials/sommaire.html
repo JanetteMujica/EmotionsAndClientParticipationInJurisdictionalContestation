@@ -1,15 +1,26 @@
 <section class="toc">
 	<h2>Table of contents</h2>
 	<ul class="posts-list">
-		{{range .Site.RegularPages.ByWeight}} {{ if .Params.ebook }} {{ else }}
-		<li class="post-item">
-			<a href="#{{.File.BaseFileName}}">
-				<span class="post-title" id="{{.Title}}"
-					>{{.Title}}{{ if .Params.chapter }} — {{.Params.chapter }}{{ end
-					}}</span
-				>
-			</a>
-		</li>
-		{{end}} {{end}}
+		{{ $mainTitle := "" }}
+		<ul class="sub-list">
+			{{ range .Site.RegularPages.ByWeight }} {{ if and (not .Params.ebook) (not
+			.Params.subtitle) }}
+			<li class="post-item">
+				<a href="#{{ .File.BaseFileName }}">
+					<span class="post-title" id="{{ .Title }}">
+						{{ $mainTitle = .Title }} {{ .Title }} {{ if .Params.chapter }} — {{
+						.Params.chapter }}{{ end }}
+					</span>
+				</a>
+			</li>
+			{{ else if and (not .Params.ebook) .Params.subtitle }} {{ if ne $mainTitle
+			"" }}
+			<li class="post-item subtitle">
+				<span class="subtitle-title" style="color: red">
+					{{ .Title }} {{ if .Params.chapter }} — {{ .Params.chapter }}{{ end }}
+				</span>
+			</li>
+			{{ end }} {{ end }} {{ end }}
+		</ul>
 	</ul>
 </section>
