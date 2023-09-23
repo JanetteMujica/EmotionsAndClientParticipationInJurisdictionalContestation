@@ -1,5 +1,5 @@
 disableFastRender = true
-theme = "roman"
+theme = ["roman", "hugo-cite"]
 [frontmatter]
 date = [":filename", ":default"]
 
