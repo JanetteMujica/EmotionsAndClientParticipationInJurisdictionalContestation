@@ -1,10 +1,8 @@
 ---
-title: "Professions, clients, and emotions"
+title: 'Professions, clients, and emotions'
 weight: 2
 bibFile: data/modified_bibliography.json
 ---
-
-## Professions, clients, and emotions
 
 A jurisdiction “is the link between a profession and its work” {{< cite "Abbott-1988" >}}, p20]. A profession controls a jurisdiction when it holds exclusive rights to interpret and respond to the needs of its clients in a given work domain {{< cite "Scott-2008;Hughes-1958" >}}. Abundant research has focused on inter-profession competition for control over work domains {{< cite "Langley-2019" >}}. But collective actors other than rival professions can also challenge a profession’s jurisdictional control and engage in struggles over the boundaries and content of professionals’ work. Most research on these struggles, termed jurisdictional contestation, focuses on regulators of professions or managers of organizations in which professionals work [e.g., {{< cite "Currie-2006;Kellogg-2009" >}}. Indeed, the negotiated nature of the regulatory bargain between states and professions to define legal boundaries around the work over which a profession’s members are granted jurisdictional control has long been at the core of sociological research on professions {{< cite "Abbott-1988;Suddaby-2007" >}}.
 
@@ -15,4 +13,3 @@ A profession uses _expert knowledge_—a system of abstractions guiding practica
 professions has highlighted that, to maintain jurisdictional control, a profession must convince different audiences—including government regulators who oversee the profession’s activities, managers of organizations in professionals work, and the profession’s clients—that its expert knowledge can be trusted to inform problem diagnosis, solution prescription, and services rendered in ways that address clients’ needs {{< cite "Muzio-2020;Eyal-2019" >}}. Thus, a profession and its clients are interdependent. Clients depend on the profession to address their needs, while the profession depends on clients’ trust in its expert knowledge to maintain jurisdictional control over its work domain {{< cite "Huising-2015;Lewis-1985" >}}.
 
 Despite the centrality of clients to professionals’ work, their role in jurisdictional contestation has remained remarkably overlooked {{< cite "Anteby-2016" >}}, p211]. This gap represents an important matter of concern for organizational theorists in light of the ongoing “crisis of expertise” {{< cite "Eyal-2019" >}}, which involves in many instances a rejection of professionals’ work by clients {{< cite "Epstein-2008" >}}. Additionally, there is a growing prominence of client engagement in initiatives to address persistent and seemingly intractable problems in professional organizations and systems {{< cite "Mayo-2021" >}}; {{< cite "Boivin-2018;Heaphy-2017;Fayard-2017" >}}. Scholars are increasingly recognizing that profession-client relations merit more attention, and recent research has investigated how professionals engage clients to maintain or expand their jurisdictional control [e.g., {{< cite "Chan-2021" >}}, in press; {{< cite "Mukherjee-2022" >}}, in-press; {{< cite "Huising-2015" >}}. But a focus on clients themselves as jurisdictional contestants remains elusive. We therefore theorize the processes leading clients to participate in jurisdictional contestation, and the specific ways in which they do so.
-

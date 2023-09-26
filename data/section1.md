@@ -1,5 +1,5 @@
 ---
-title: "Section1"
+title: 'Introduction'
 weight: 1
 bibFile: data/modified_bibliography.json
 ---
@@ -15,4 +15,3 @@ Efforts to evoke specific emotions do not always achieve intended effects, howev
 With our model, we make several contributions to the literature on professions. First, by theorizing the participation of individual clients in an episode of jurisdictional contestation as resulting from a framing contest between a challenger social movement and an incumbent profession, our model highlights that the authoritative nature of a profession’s expert knowledge can be countered by the experiential knowledge collectively held by movement adherents. In this way, we complement existing research on jurisdictional contestation, which tends to focus on regulators and managers as the main challengers. Whereas these actors use formal authority to challenge a profession and redefine the boundaries and content of its work [e.g., {{< cite "Waring-2009" >}}, our model shows how a social movement can use an alternative epistemic basis to draw individual clients into a collective challenge to a profession’s jurisdiction.
 
 Second, we consider the role of multiple, intertwined social emotions in this process. Rather than focusing on a singular emotion [e.g., {{< cite "Gill-2018" >}}, we focus on pride, anger, shame, and fear as a constellation and illustrate how each side in the movement-profession framing contest seeks to evoke these emotions in individual clients, but in different ways and to different ends. Finally, we introduce a typology of five modes of client participation in jurisdictional contestation that highlights how specific configurations of emotional resonance lead an individual client exposed to a framing contest to enact a particular mode. By doing so, we bridge the collective and individual levels of analysis while laying the foundation for future research into synergies and tensions between clientele segments enacting different modes.
-
