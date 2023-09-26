@@ -1,10 +1,9 @@
 ---
-title: "Section12"
+title: "Table 2—Successful framing efforts and modes of participation in jurisdictional contestation"
 weight: 12
 bibFile: data/modified_bibliography.json
+subtitle: true
 ---
-
-### Table 2—Successful framing efforts and modes of participation in jurisdictional contestation
 
 | Framing efforts that evoke emotions successfully                                                                          | Emotional resonance                                                                                                                                                                                                                                                                                                                                                                                          | Mode of participation in jurisdictional contestation                                        |
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
@@ -25,4 +24,3 @@ At each step in which we settled on a mode, we complemented our theoretical move
 ![Figure 1 — Emotional resonance of a movement/profession framing contest: an overview](images/janettemujicahnu6051-7b4ec0603b0083e4c944aa672a7c3a6c.png)
 
 _Escape_ and _stewardship_ represent the two least ambivalent modes of client participation, with each at opposite ends of the continuum of supporting movement or profession, respectively. The _opposition_, _accommodation_, and _acquiescence_ modes are shaped by different forms of felt ambivalence where the framing efforts of both movement and profession resonate to some degree in clients. We illustrate each mode with examples from health-related work domains.\*\*
-

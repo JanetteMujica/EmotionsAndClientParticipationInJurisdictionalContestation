@@ -1,10 +1,9 @@
 ---
-title: "Section5"
+title: "Role of emotions in client participation"
 weight: 5
 bibFile: data/modified_bibliography.json
+subtitle: true
 ---
-
-### Role of emotions in client participation
 
 Studies of professions have begun to consider how social emotions shape inter-profession competition [e.g., {{< cite "Goodrick-2020;Chreim-2020" >}}. But so far, most research on client-profession relations has not used an emotions lens [e.g., {{< cite "Evans-2021;Huising-2021;Chan-2021" >}}; but see {{< cite "Mukherjee-2022" >}}, in-press]. A recent effort to theorize emotions in jurisdictional contestation by clients was made in {{< cite "Wang-2021" >}} study of Chinese patients’ changing attitudes towards physicians. The study finds that a market-oriented reform of government financing for physicians’ work incentivized physicians to boost their income by overprescribing, which undermined patients’ trust in the profession’s expert knowledge. As a result, patients who used to proudly call physicians “angels in white” began shaming them as “wolves in white.” This shift, driven by widespread anger, led to a wave of aggressions by patients against physicians.
 
@@ -13,4 +12,3 @@ These recent findings echo early work by Everett Hughes, a canonical figure for 
 Emotions shaping client participation in jurisdictional contestation have been most abundantly documented in studies of social movements challenging professions [e.g., {{< cite "Gould-2009;Britt-2000;Bayer-1987" >}}. Anger, for instance, led to the mobilization of activists who challenged the medical and pharmaceutical professions in the early years of the HIV/AIDS pandemic, leading patients to push back against health professionals by setting up their own care and treatment organizations {{< cite "Maguire-2002" >}}. In this episode, and many others henceforth cited, a highly emotional framing contest arose between a challenger social movement and an incumbent profession to gain the trust of clients in their respective forms of knowledge and to lead them to support their disruptive and defensive institutional projects, respectively.
 
 We build upon emerging literature on clients in the relational perspective on professions {{< cite "Chan-2021;Huising-2021;Eyal-2019" >}} by theorizing how individual clients come to participate in jurisdictional contestation. We do so by mapping distinct configurations of social emotions, experienced by clients exposed to a movement/profession framing contest, to five modes of participation enacted by clients in episodes of jurisdictional contestation. We call these modes _escape_, _opposition_, _accommodation_, _acquiescence_, and _stewardship_.
-

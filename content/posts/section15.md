@@ -1,10 +1,9 @@
 ---
-title: "Section15"
+title: "Accommodation"
 weight: 15
 bibFile: data/modified_bibliography.json
+subtitle: true
 ---
-
-### Accommodation
 
 The mode of client participation we refer to as ‘accommodation’ is enacted by clients in whom the contestants’ adversarial framing efforts have comparable degrees of emotional resonance. Although different forms of ambivalence may lead to accommodation, in each, clients experience some degree of anger and pride as evoked by the movement’s framing efforts, yet also some degree of fear and shame as evoked by the profession’s framing efforts.
 
@@ -21,4 +20,3 @@ We argue that accommodation is also pursued by clients experiencing another form
 ![Figure 4b—Emotional resonance leading a client to enact the ‘accommodation’ mode of participation (with ‘trust yet detachment’ form of ambivalence](images/janettemujicahnu6051-92c2971c19ce1f8fe8316486b14ca6db.png)
 
 Illustrating the ‘trust yet detachment’ form of ambivalence\* towards the movement, which leads clients to enact the accommodation mode of participation in jurisdictional contestation, are HIV/AIDS activists. {{< cite "Gould-2009" >}}, p24] describes the ambivalence experienced in their struggle with the medical profession as a mix of “contradictory feeling states, including shame about homosexuality along with gay pride, as well as a desire for social acceptance along with repulsion from a society that oppresses sexual minorities.” She notes how the ambivalence of activists, who feel proud of the movement’s change project but ashamed of being seen to support it and labeled as deviant, leads them to work for incremental change while trying not to ‘rock the boat’ and risk marginalization from mainstream arrangements {{< cite "Gould-2009" >}}. In different ways, both the ‘trust yet detachment’ and ‘attachment yet mistrust’ forms of ambivalence towards the movement involve in individual clients a desire to challenge prevailing arrangements that is tempered by a concern for keeping their place within them.
-

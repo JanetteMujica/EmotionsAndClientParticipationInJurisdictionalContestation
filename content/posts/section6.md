@@ -1,7 +1,8 @@
 ---
-title: 'Emotions in framing contests: a model of client participation in juridictional contestation'
+title: "Emotions in framing contests: a model of client participation in juridictional contestation"
 weight: 6
 bibFile: data/modified_bibliography.json
+subtitle: false
 ---
 
 Our model draws upon framing theory {{< cite "Goffman-1974;Cornelissen-2014" >}}, according to which frames are “strategic rhetorical devices by which one actor seeks to define a situation for another and influence their thinking and behavior” {{< cite "Giorgi-2017" >}}, p713]. Framing efforts are sustained attempts by actors to promote frames that influence the members of an audience to act in ways favorable to them {{< cite "Giorgi-2015" >}}. Framing efforts resonate when the frames promoted by an actor “match or align with the audience’s beliefs, values, aspirations, or ideas” {{< cite "Giorgi-2017" >}}, p712] in ways that generate intended actions. Framing efforts resonate cognitively when they influence a person’s “thinking,” and emotionally when they influence a person’s “feeling” {{< cite "Giorgi-2017" >}}, p717]. A “framing contest” is a struggle between actors with diverging commitments, each enacting “highly political framing practices to make their frames resonate and to mobilize action in their favor” {{< cite "Kaplan-2008" >}}, p729].

@@ -1,7 +1,8 @@
 ---
 title: 'Bibliography'
-bibFile: data/bibliography.json # path relative to project root
 weight: 25
+bibFile: data/modified_bibliography.json
+subtitle: false
 ---
 
 {{< bibliography >}}

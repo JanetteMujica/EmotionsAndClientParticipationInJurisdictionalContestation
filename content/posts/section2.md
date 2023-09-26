@@ -1,7 +1,8 @@
 ---
-title: 'Professions, clients, and emotions'
+title: "Professions, clients, and emotions"
 weight: 2
 bibFile: data/modified_bibliography.json
+subtitle: false
 ---
 
 A jurisdiction “is the link between a profession and its work” {{< cite "Abbott-1988" >}}, p20]. A profession controls a jurisdiction when it holds exclusive rights to interpret and respond to the needs of its clients in a given work domain {{< cite "Scott-2008;Hughes-1958" >}}. Abundant research has focused on inter-profession competition for control over work domains {{< cite "Langley-2019" >}}. But collective actors other than rival professions can also challenge a profession’s jurisdictional control and engage in struggles over the boundaries and content of professionals’ work. Most research on these struggles, termed jurisdictional contestation, focuses on regulators of professions or managers of organizations in which professionals work [e.g., {{< cite "Currie-2006;Kellogg-2009" >}}. Indeed, the negotiated nature of the regulatory bargain between states and professions to define legal boundaries around the work over which a profession’s members are granted jurisdictional control has long been at the core of sociological research on professions {{< cite "Abbott-1988;Suddaby-2007" >}}.

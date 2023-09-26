@@ -1,10 +1,9 @@
 ---
-title: "Section13"
+title: "Escape"
 weight: 13
 bibFile: data/modified_bibliography.json
+subtitle: true
 ---
-
-### Escape
 
 The mode of client participation in jurisdictional contestation we call ‘escape’ is shaped by the exclusive emotional resonance of a movement’s disruptive framing efforts. By escape, we mean withdrawing from established arrangements to pursue a peer-driven, alternative project. We argue that clients enact the escape mode of participation because they feel very proud of supporting the movement’s alternative, peer-driven institutional project, as well as somewhat afraid of relying on the profession’s established arrangements, ashamed of complying with the profession’s prescriptions, and angry at the profession for breaching its duty. Clients who experience this configuration of emotional resonance come to see the movement’s experiential knowledge as highly trustworthy. They become strongly attached to the movement as a collective actor. This configuration of emotional resonance is illustrated in Figure 2.
 
@@ -25,4 +24,3 @@ Recent research by mad activists has noted that this pride of supporting the mov
 In this quote, Chamberlin describes the fear felt among movement adherents at the idea of relying on the established arrangements upheld by the psychiatric profession and their distrust of its expert knowledge which they see as irrelevant, dangerous, and unreliable. She also states the anger felt by movement adherents towards the profession for breaching its duty—an anger at ‘them’ that attaches adherents to the ‘we’ of the movement and leads them to consider deviance from the profession’s prescriptions as a righteous imperative. Research on the history of the mad movement describes how the shame of complying with the profession’s prescriptions led mad activists to become detached from the psychiatric profession and to see compliance with its prescription as morally flawed and self-degrading, creating tensions between the movement’s radical and reformist segments {{< cite "Scott_campbell-2011;Morrison-2005" >}}.
 
 Similar emotional dynamics have been described among the feminist founders of a peer- driven crisis center for rape survivors {{< cite "Zilber-2002" >}}, as well as in mutual aid groups for women who practice breastfeeding and proximal mothering {{< cite "Weiner-1994" >}}, transgendered people {{< cite "Schrock-2004" >}}, and stutterers {{< cite "Borkman-1999" >}}. Fueled by pride in their newfound community but also specific forms of anger, shame and fear, adherents to these movements seek to withdraw from a profession’s jurisdiction to pursue alternative, peer-driven arrangements.
-

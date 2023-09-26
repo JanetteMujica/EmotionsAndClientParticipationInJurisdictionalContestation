@@ -1,10 +1,9 @@
 ---
-title: "Section9"
+title: "Disruptive framing efforts of social movements"
 weight: 9
 bibFile: data/modified_bibliography.json
+subtitle: true
 ---
-
-### Disruptive framing efforts of social movements
 
 A vast, dispersed literature dating from the 1960s [e.g., {{< cite "Cleaver-1968;Bayer-1987;Reinecke-2021" >}} documents how social movements have framed the expert knowledge of incumbent actors as technically irrelevant, dangerous and/or morally corrupt, and hence untrustworthy to address adherents’ needs. While also valorizing the movement’s experiential knowledge as trustworthy, these framing efforts seek to detach targeted audiences from incumbents and gain attachment to the movement {{< cite "Bayer-1987;Britt-2000;Gould-2009" >}}. This research describes the process by which a person re-evaluates the trustworthiness of different forms of knowledge and their attachment to different collective actors as an intensely emotional one {{< cite "Whittier-2001;Taylor_v-2000;Hughes-1958" >}}.
 
@@ -17,4 +16,3 @@ Research on social movements also indicates that their framing efforts seek to e
 Drawing on these studies we also argue that a movement involved in jurisdictional contestation engages in disruptive framing efforts to evoke in clients a fear of relying on established arrangements upheld by the profession. It does so by framing the profession’s expert knowledge as irrelevant, dangerous, and/or unreliable [cf. {{< cite "Taylor_v-2000" >}}. By seeking to evoke this form of fear in individual clients in relation to the profession, movement adherents attempt to undermine the trust of clients in the expert knowledge on which rests the profession’s jurisdictional control over established arrangements. For example, the framing efforts of mad activists, as evidenced by abundant texts that they have authored [e.g., {{< cite "Lefrancois-2013;Shimrat-1997;Chamberlin-1977" >}}, clearly seek to evoke fear in patients of being diagnosed, confined, and treated against their will by psychiatrists, thus highlighting this movement’s efforts to undermine the trust of patients in the expert knowledge of the profession.
 
 In sum, we build on social studies of emotions to argue that social movements involved in jurisdictional contestation engage in disruptive framing efforts to evoke _pride_ and _anger_ in clients in ways that strengthen the trust of clients in the movement’s experiential knowledge and gain the attachment of clients to the movement, respectively. Additionally, we argue that these movements also engage, although to a lesser extent, in disruptive framing efforts to evoke _shame_ and _fear_ in ways that cause the detachment of clients from the profession as a collective actor and undermine the trust of clients in the profession’s expert knowledge, respectively.
-
