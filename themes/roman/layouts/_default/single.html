@@ -17,6 +17,8 @@
 					{{ .Params.Chapter }} - {{ .Title }}
 				</h1>
 
+				{{ partial "buttons.html" . }}
+
 				<!-- <div class="post-meta">
         <a href="impression.html">Version imprimable</a>
       </div> -->
@@ -28,7 +30,6 @@
         <a href="impression.html">Version imprimable</a>
       </div> -->
 				{{ end }}
-
 				<div class="post-content e-content" itemprop="articleBody">
 					{{ if .Params.toc }}
 					<h3>Table of Contents</h3>
