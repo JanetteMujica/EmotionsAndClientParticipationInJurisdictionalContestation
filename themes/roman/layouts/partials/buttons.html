@@ -1,0 +1,7 @@
+<div class="buttonContainer">
+	{{ if .PrevInSection }}
+	<a href="{{ .PrevInSection.Permalink }}" class="previous">&laquo; Previous</a>
+	{{ end }} {{ if .NextInSection }}
+	<a href="{{ .NextInSection.Permalink }}" class="next">Next &raquo;</a>
+	{{ end }}
+</div>

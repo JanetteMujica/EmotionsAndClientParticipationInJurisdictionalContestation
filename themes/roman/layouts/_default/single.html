@@ -31,9 +31,11 @@
 
 				<div class="post-content e-content" itemprop="articleBody">
 					{{ if .Params.toc }}
-					<h3>Table of Contents</h3>
+					<h3>Table des matières de la page</h3>
 					{{ .TableOfContents }} {{ end }} {{ .Content }}
 				</div>
+
+				{{ partial "buttons.html" . }}
 			</article>
 			{{ partial "footer.html" . }}
 		</main>
