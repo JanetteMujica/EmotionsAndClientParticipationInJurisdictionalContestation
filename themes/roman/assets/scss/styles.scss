@@ -1071,3 +1071,27 @@ audio {
 	white-space: nowrap; /* Prevent line breaks inside the element */
 	overflow-wrap: break-word; /* Allow text to wrap onto the next line when needed */
 }
+
+.buttonContainer {
+	display: flex;
+	justify-content: space-between;
+	font-weight: 900;
+	padding-bottom: 1em;
+}
+
+.previous {
+	text-decoration: none;
+	margin-right: auto;
+	transition: color 0.2s;
+}
+
+.next {
+	text-decoration: none;
+	margin-left: auto;
+	transition: color 0.2s;
+}
+
+.previous:hover,
+.next:hover {
+	color: #fb483b; /* Change text color on hover */
+}
