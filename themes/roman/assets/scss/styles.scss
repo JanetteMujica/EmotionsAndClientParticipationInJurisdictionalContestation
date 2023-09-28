@@ -1095,3 +1095,38 @@ audio {
 .next:hover {
 	color: #fb483b; /* Change text color on hover */
 }
+
+table,
+td,
+th {
+	color: var(--noir);
+	font-weight: 300;
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size: 0.8em;
+	line-height: 1.6;
+	border: 1px solid var(--grey);
+	text-align: left;
+}
+
+table {
+	margin-top: 1em;
+	border-collapse: collapse;
+	width: 100%;
+}
+
+th,
+td {
+	font-family: 'Merriweather Sans', sans-serif;
+	padding: 1em;
+	vertical-align: top;
+}
+
+tr:nth-child(even) {
+	background-color: white;
+}
+
+th {
+	background-color: var(--dark);
+	color: white;
+	font-weight: 700;
+}
