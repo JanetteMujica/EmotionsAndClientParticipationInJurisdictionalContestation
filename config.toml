@@ -34,3 +34,6 @@ filename = "sitemap.xml"
 priority = 0.5
 [taxonomies]
 tag = "tags"
+
+[params.cite]
+  bibfile = "data/modified_bibliography.json"
