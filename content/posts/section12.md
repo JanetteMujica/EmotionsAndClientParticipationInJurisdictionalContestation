@@ -1,5 +1,5 @@
 ---
-title: 'Table 2—Successful framing efforts and modes of participation in jurisdictional contestation'
+title: 'Table 2: Successful framing efforts and modes of participation in jurisdictional contestation'
 weight: 12
 bibFile: data/modified_bibliography.json
 subtitle: true

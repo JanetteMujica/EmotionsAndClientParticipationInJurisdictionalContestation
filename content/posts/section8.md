@@ -1,5 +1,5 @@
 ---
-title: 'Table 1—Framing efforts and the emotions they seek to evoke'
+title: 'Table 1: Framing efforts and the emotions they seek to evoke'
 weight: 8
 bibFile: data/modified_bibliography.json
 subtitle: true
