@@ -1,5 +1,5 @@
 ---
-title: "Escape"
+title: 'Escape'
 weight: 13
 bibFile: data/modified_bibliography.json
 subtitle: true
@@ -7,7 +7,7 @@ subtitle: true
 
 The mode of client participation in jurisdictional contestation we call ‘escape’ is shaped by the exclusive emotional resonance of a movement’s disruptive framing efforts. By escape, we mean withdrawing from established arrangements to pursue a peer-driven, alternative project. We argue that clients enact the escape mode of participation because they feel very proud of supporting the movement’s alternative, peer-driven institutional project, as well as somewhat afraid of relying on the profession’s established arrangements, ashamed of complying with the profession’s prescriptions, and angry at the profession for breaching its duty. Clients who experience this configuration of emotional resonance come to see the movement’s experiential knowledge as highly trustworthy. They become strongly attached to the movement as a collective actor. This configuration of emotional resonance is illustrated in Figure 2.
 
-![Figure 2 — Emotional resonance leading a client to enact the ‘escape’ mode of participation](https://upload.wikimedia.org/wikipedia/commons/d/dd/Figure_2_Escape.png)
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Figure_2_Escape.png" alt="Figure 2 — Emotional resonance leading a client to enact the ‘escape’ mode of participation" caption="Figure 2 — Emotional resonance leading a client to enact the ‘escape’ mode of participation" >}}
 
 Exemplifying this mode of participation are adherents to what has been variously known since the 1970s as the psychiatric survivors or mad movement. Judi {{< cite "Chamberlin-1977" >}}'s _On our own_ is a profoundly emotional first-person account of having “survived” what she describes as oppressive psychiatric treatments. It is also a forceful manifesto advocating for the “liberation” of psychiatric patients through their mobilization for an alternative institutional project of mutual aid among experiential peers. In the conclusion of this text, which to this day remains a foundational reference for movement adherents, {{< cite "Chamberlin-1977" 239 >}} wrote:
 

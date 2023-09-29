@@ -1,5 +1,5 @@
 ---
-title: "Opposition"
+title: 'Opposition'
 weight: 14
 bibFile: data/modified_bibliography.json
 subtitle: true
@@ -7,7 +7,7 @@ subtitle: true
 
 ‘Opposition’ refers to a mode of client participation that arises when the framing efforts of both movement and profession resonate emotionally in a client to some degree, but where the movement’s disruptive framing efforts dominate. By opposition, we mean that clients seek to radically transform the established arrangements upheld by the profession in order to redress the immorality of these arrangements. Opposition is pursued, we argue, by clients who feel very angry at the profession for breaching its duty as well as somewhat ashamed of complying with the profession’s prescriptions and proud of supporting the movement’s alternative project, yet nonetheless somewhat afraid of relying on the movement’s alternative project to address their needs. As a result of this form of felt ambivalence (very angry at the profession but somewhat fearful of the movement’s project), clients become attached to the movement and consider deviance from the profession’s prescriptions as a righteous imperative, while also remaining engaged with the established arrangements upheld by the profession because they do not fully trust the movement’s experiential knowledge to address their needs. This configuration of emotional resonance is illustrated in Figure 3.
 
-![Figure 3 — Emotional resonance leading a client to enact the ‘opposition’ mode of participation](https://upload.wikimedia.org/wikipedia/commons/0/02/Figure_3_Opposition.png)
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/0/02/Figure_3_Opposition.png" alt="Figure 3 — Emotional resonance leading a client to enact the ‘opposition’ mode of participation" caption="Figure 3 — Emotional resonance leading a client to enact the ‘opposition’ mode of participation" >}}
 
 For example, birth justice activists angrily denounce the obstetrics profession as prejudiced because “pregnancy experiences and outcomes can be dramatically different for (…) women of color, immigrants, LGBTQ people, disabled women, and those with low incomes, among others” {{< cite "Ansirh-2022" >}}. Peer-led groups where women share with each other their first- person accounts of obstetrical violence cf. {{< cite "The_obstetric_justice_project-2022" >}} nurture a woman’s attachment to the movement as a collective actor by creating a moral dichotomy {{< cite "Gamson-1992" >}} between the movement and the obstetrics profession. Movement adherents seek to transform practices of the obstetrics profession that, in their view, mistreat and harass birthing people and their babies cf. {{< cite "Fatima-2020" >}}. They consider denouncing this systemic problem and advocating for radical change in obstetrical practices as righteous imperatives.
 

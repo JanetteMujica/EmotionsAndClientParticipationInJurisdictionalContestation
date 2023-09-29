@@ -1,5 +1,5 @@
 ---
-title: "Acquiescence"
+title: 'Acquiescence'
 weight: 16
 bibFile: data/modified_bibliography.json
 subtitle: true
@@ -7,7 +7,7 @@ subtitle: true
 
 The mode of client participation we label as ‘acquiescence’ arises when a client experiences the emotional resonance of both contestants’ framing efforts, but the profession’s defensive framing efforts dominate. By acquiescence, we refer to clients passively accepting the profession’s established arrangements despite latent grievances. We argue that clients enact acquiescence when they feel very ashamed of deviating from the profession’s prescriptions as well as somewhat afraid of relying on the movement’s alternative project and angry at the movement for jeopardizing a proper response to their needs, yet nonetheless also somewhat proud of the movement’s change project. Clients feeling ambivalent in this way remain attached to the profession and consider deviance from its prescriptions as wrong, which leads them to passively accept established arrangements despite their trust in the movement’s experiential knowledge. This configuration of emotional resonance is illustrated in Figure 5.
 
-![Figure 5 — Emotional resonance leading a client to enact the ‘acquiescence’ mode of participation](https://upload.wikimedia.org/wikipedia/commons/c/ce/Figure_5_Acquiescence.png)
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Figure_5_Acquiescence.png" alt="Figure 5 — Emotional resonance leading a client to enact the ‘acquiescence’ mode of participation" caption="Figure 5 — Emotional resonance leading a client to enact the ‘acquiescence’ mode of participation" >}}
 
 Exemplifying this mode of participation are citizens who complied with and refrained from openly criticizing public health mandates to prevent the propagation of Covid-19 despite privately disagreeing with some aspects of them, suggesting that their desire to avoid being targets of shaming led them to passively accept the arrangements upheld by public health professionals. A report for the Guardian published in the middle of the pandemic observed that on social media, “[t]housands of people [were] blaming, naming, and shaming others for their improper pandemic practices” {{< cite "Tait-2020" >}}. This created a climate of intense peer pressure that led many citizens to comply with public health mandates in order to avoid being seen as deviant, and to feel somewhat angry at movements that challenged the public health profession, despite silently agreeing with aspects of the challenger movement’s critique and feeling somewhat proud of the movement’s alternative project cf. {{< cite "Graso-2021" >}}. Clients experiencing the framing contest in this way remain detached from the challenger movement, although they partially trust the experiential knowledge of movement adherents.
 

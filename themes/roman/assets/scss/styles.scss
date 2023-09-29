@@ -1101,22 +1101,25 @@ td,
 th {
 	color: var(--noir);
 	font-weight: 300;
-	font-family: 'Merriweather Sans', sans-serif;
 	font-size: 0.8em;
 	line-height: 1.6;
 	border: 1px solid var(--grey);
 	text-align: left;
+
+	@media (min-width: $on-tablet) {
+		font-size: 0.9em;
+	}
 }
 
 table {
 	margin-top: 1em;
+	margin-bottom: 1em;
 	border-collapse: collapse;
 	width: 100%;
 }
 
 th,
 td {
-	font-family: 'Merriweather Sans', sans-serif;
 	padding: 1em;
 	vertical-align: top;
 }
@@ -1126,12 +1129,16 @@ tr:nth-child(even) {
 }
 
 th {
-	background-color: var(--dark);
+	background-color: black;
 	color: white;
-	font-weight: 700;
+	font-weight: 900;
+	font-size: 1em;
+
+	@media (min-width: $on-tablet) {
+		font-size: 1em;
+	}
 }
 
 figcaption {
-	font-family: 'Merriweather Sans', sans-serif;
 	padding-top: 1em;
 }

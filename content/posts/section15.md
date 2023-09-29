@@ -1,5 +1,5 @@
 ---
-title: "Accommodation"
+title: 'Accommodation'
 weight: 15
 bibFile: data/modified_bibliography.json
 subtitle: true
@@ -9,7 +9,7 @@ The mode of client participation we refer to as ‘accommodation’ is enacted b
 
 We argue that accommodation is enacted by clients who feel very angry at the profession for breaching its duty, yet also equally fearful of relying on the movement’s alternative project to address their needs. By accommodation, we mean that clients seek to incrementally improve established arrangements. Clients experiencing this configuration of emotional resonance are attached to the movement as a collective actor but mistrust its experiential knowledge to address their needs. We call this form of ambivalence towards the movement ‘attachment yet mistrust’. It leads clients to see deviance from the profession’s prescriptions as a righteous imperative, yet nonetheless remain engaged with established arrangements and work to incrementally improve them. Enacting accommodation in this way allows clients to reconcile contradictory inclinations towards the movement. This configuration of emotional resonance is illustrated in Figure 4a.
 
-![Figure 4a — Emotional resonance leading a client to enact the ‘accommodation’ mode of participation (with ‘attachment yet mistrust’ form of ambivalence)](https://upload.wikimedia.org/wikipedia/commons/6/61/Figure_4a_Accommodation_Mistrust.png)
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/6/61/Figure_4a_Accommodation_Mistrust.png" alt="Figure 4a — Emotional resonance leading a client to enact the ‘accommodation’ mode of participation (with ‘attachment yet mistrust’ form of ambivalence)" caption="Figure 4a — Emotional resonance leading a client to enact the ‘accommodation’ mode of participation (with ‘attachment yet mistrust’ form of ambivalence)" >}}
 
 Exemplifying this form of ambivalence towards the movement, which leads clients to enact accommodation, are adherents to the patient partnership movement, which gained a foothold across healthcare systems in recent decades. Mobilized by a latent anger at healthcare professions and their practices, which they see as paternalistic and exclusionary, members of patient groups including hemophiliacs, people living with HIV/AIDS, cancer survivors, mental health advocates, and others, are demanding to be included in the design, governance, evaluation of, and research about health care {{< cite "Maurer-2019;Jouet-2010" >}}.
 
