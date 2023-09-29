@@ -913,6 +913,15 @@ figcaption {
 	text-align: center;
 }
 
+.post > h2 {
+	font-size: 1.2em;
+	font-weight: bold;
+	max-width: 43rem;
+	padding-left: 1em;
+	padding-right: 1em;
+	text-align: center;
+}
+
 .post p {
 	text-align: left;
 	text-justify: inter-word;
