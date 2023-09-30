@@ -32,7 +32,7 @@
 		"URL": "https://www.aamc.org/news/shame-us-shaming-people-excess-weight",
 		"author": [
 			{
-				"literal": "AAMC"
+				"family": "Association of American Medical Colleges"
 			}
 		],
 		"accessed": {
@@ -136,12 +136,12 @@
 		"id": "Ansirh-2022",
 		"type": "post-weblog",
 		"container-title": "Birth Justice",
-		"title": "Advancing New Standards in Reproductive Health - University of California San Francisco",
+		"title": "University of California San Francisco",
 		"title-short": "ANSIRH",
 		"URL": "https://www.ansirh.org/pregnancy/birth-justice",
 		"author": [
 			{
-				"family": "ANSIRH",
+				"family": "Advancing New Standards in Reproductive Health",
 				"given": ""
 			}
 		],

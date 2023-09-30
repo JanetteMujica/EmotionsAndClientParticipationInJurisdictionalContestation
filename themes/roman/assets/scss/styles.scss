@@ -1150,51 +1150,59 @@ th {
 figcaption {
 	padding-top: 1em;
 }
+.onboardingContainer {
+	margin: 0 1em; /* Add 1em margin on the left and right outside the .onboarding box */
+}
 
 .onboarding {
 	margin-top: 2em;
-	padding-top: 1em;
-	padding-bottom: 1em;
+	padding: 1em;
 	background-color: #4083bb;
+	color: white;
 	font-family: Arial, Helvetica, sans-serif;
-	border-color: black;
-	border-style: solid;
-	border-width: 7px;
+	border: 7px solid black;
 	max-width: 34em;
-	margin-right: auto;
 	margin-left: auto;
+	margin-right: auto;
+	box-sizing: border-box; /* Include padding and border in element width */
+}
 
-	section {
-		display: flex;
-		flex-direction: row;
-		flex: wrap;
-		padding: 1em;
+.onboarding img {
+	max-width: 100px;
+	height: auto;
+	margin: 1em auto; /* Center the image horizontally */
+}
+
+.onboarding h3 {
+	color: white;
+	font-weight: bold;
+	margin: 0;
+}
+
+.onboarding a {
+	color: white;
+}
+
+.onboarding a:hover {
+	color: #fb483b;
+}
+
+.onboarding ol {
+	padding: 1em;
+	text-align: left;
+	max-width: 23em;
+	margin: 0 auto; /* Center the list horizontally */
+}
+
+.hugo-cite-bibliography {
+	dl {
 	}
 
-	img {
-		max-width: 100px;
-		height: auto;
-		margin-top: 1em;
-		margin-bottom: 1em;
-	}
-
-	h3 {
-		color: white;
-		font-weight: bold;
-		margin-top: 0;
-		margin-bottom: 0;
-	}
-
-	a:hover {
-		color: #fb483b;
-	}
-
-	ol {
-		padding-top: 1em;
+	div {
 		padding-bottom: 1em;
-		text-align: left;
-		max-width: 23em;
-		margin-right: auto;
-		margin-left: auto;
+	}
+
+	dt {
+		font-weight: bold;
 	}
 }
