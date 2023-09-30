@@ -1,5 +1,5 @@
 DefaultContentLanguage = "en"
-baseURL = "http://localhost:1313/"
+baseURL = "/"
 disableFastRender = true
 disableKinds = []
 languageCode = "en-en"
