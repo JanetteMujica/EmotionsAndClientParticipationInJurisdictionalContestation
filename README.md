@@ -15,7 +15,7 @@ Special thanks to [Roch Delanney](https://ecrituresnumeriques.ca/fr/Equipe/Roch-
 ## Open-source technologies used
 
 - [Hugo](https://gohugo.io/): framework for building the website
-- [Hugo Cite](https://labs.loupbrun.ca/hugo-cite/): plug-in to manage in-text citations and bibliography
+- [Hugo Cite](https://labs.loupbrun.ca/hugo-cite/): plug-in to manage in-text citations and bibliography of [Louis-Olivier Brassard](https://www.loupbrun.ca/)
 - [Hypothesis](https://web.hypothes.is/): browser extension for social annotation
 - [Hitchens](https://github.com/patdryburgh/hitchens): [Jerkill theme](http://jekyllrb.com/) designed by [Pat Dryburgh](https://patdryburgh.com/)
 - [GitHub Actions](https://docs.github.com/en/actions): website deployement
