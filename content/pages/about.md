@@ -25,7 +25,7 @@ Hi ! I am [Janette](https://www.linkedin.com/in/janette-mujica-59272a6a/).
 
 Enough was enough! I was slogging through a PDF version of this academic paper, and it felt like my brain was on a wild rollercoaster ride. That's when I decided, 'Hey, it's time to make this paper readable for a group of eager minds.'
 
-Special thanks to [Roch Delanney](https://ecrituresnumeriques.ca/fr/Equipe/Roch-Delannay) and [Margot Mellet](https://ecrituresnumeriques.ca/fr/Equipe/Margot-Mellet/) for introducing me to the right tools during [my editing class at UdeM](https://admission.umontreal.ca/cours-et-horaires/cours/hnu-6051/). Thanks for saving me from the PDF abyss!
+Special thanks to [Roch Delanney](https://ecrituresnumeriques.ca/fr/Equipe/Roch-Delannay) and [Margot Mellet](https://ecrituresnumeriques.ca/fr/Equipe/Margot-Mellet/) for introducing me to the right tools during [my editing class at UdeM](https://admission.umontreal.ca/cours-et-horaires/cours/hnu-6051/). Thanks for saving us from the PDF abyss!
 
 ### Open-source technologies used
 
