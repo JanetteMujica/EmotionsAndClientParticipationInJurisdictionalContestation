@@ -2,6 +2,7 @@
 <html lang="fr">
 	{{ partial "head.html" . }}
 	<body>
+		{{ partial "header.html" . }}
 		<header class="site-masthead">
 			<img
 				src="{{ .Site.Params.logo }}"
@@ -19,6 +20,26 @@
 					>Academy&nbsp;of&nbsp;Management&nbsp;Review</a
 				>
 			</h2>
+
+			<div class="buttonContainer">
+				<form
+					action="https://www.zotero.org/groups/5170214/emotionsandclientparticipation"
+					target="_blank"
+				>
+					<button type="submit">Open Bibliographic Database</button>
+				</form>
+
+				<form
+					action="https://www.researchgate.net/publication/366393969_Emotions_and_client_participation_in_jurisdictional_contestation"
+					target="_blank"
+				>
+					<button type="submit">Research Gate PDF</button>
+				</form>
+
+				<form action="" target="_blank">
+					<button type="submit">Copy DOI</button>
+				</form>
+			</div>
 
 			<section class="onboardingContainer">
 				<div class="onboarding">

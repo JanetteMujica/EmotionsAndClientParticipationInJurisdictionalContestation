@@ -1206,3 +1206,12 @@ figcaption {
 		font-weight: bold;
 	}
 }
+
+.buttonContainer {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	gap: 1em;
+	font-size: 1em;
+	padding-bottom: 1em;
+}
