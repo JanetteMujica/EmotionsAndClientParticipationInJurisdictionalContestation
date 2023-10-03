@@ -22,23 +22,18 @@
 			</h2>
 
 			<div class="buttonContainer">
-				<form
-					action="https://www.zotero.org/groups/5170214/emotionsandclientparticipation"
-					target="_blank"
+				<a
+					class="buttonHome"
+					href="https://www.zotero.org/groups/5170214/emotionsandclientparticipation"
+					>Bib Database</a
 				>
-					<button type="submit">Open Bibliographic Database</button>
-				</form>
 
-				<form
-					action="https://www.researchgate.net/publication/366393969_Emotions_and_client_participation_in_jurisdictional_contestation"
-					target="_blank"
+				<a
+					class="buttonHome"
+					href="https://www.researchgate.net/publication/366393969_Emotions_and_client_participation_in_jurisdictional_contestation"
+					>RG PDF</a
 				>
-					<button type="submit">Research Gate PDF</button>
-				</form>
-
-				<form action="" target="_blank">
-					<button type="submit">Copy DOI</button>
-				</form>
+				<button class="buttonHome" id="copyDOI">Copy DOI</button>
 			</div>
 
 			<section class="onboardingContainer">
@@ -126,5 +121,27 @@
 			</ul>
 		</main>
 		{{ partial "header.html" . }} {{ partial "footer.html" . }}
+
+		<script>
+			const copyButton = document.getElementById('copyDOI');
+			const doiText = '10.5465/amr.2020.0511'; // The DOI you want to copy
+
+			copyButton.addEventListener('click', () => {
+				// Create a text area element to hold the text
+				const textArea = document.createElement('textarea');
+				textArea.value = doiText;
+				document.body.appendChild(textArea);
+
+				// Select and copy the text
+				textArea.select();
+				document.execCommand('copy');
+
+				// Clean up
+				document.body.removeChild(textArea);
+
+				// Optionally, provide feedback to the user
+				alert('DOI copied to clipboard: ' + doiText);
+			});
+		</script>
 	</body>
 </html>
