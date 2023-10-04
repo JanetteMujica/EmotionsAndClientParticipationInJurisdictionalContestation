@@ -11,9 +11,13 @@
 	}}{{ else }}{{ .Site.Params.description }}{{ end }}"> {{ template
 	"_internal/twitter_cards.html" . }} {{ template "_internal/opengraph.html" .
 	}} {{ template "_internal/schema.html" . }}
+
+	<meta property="og:image" content="/images/deviation.png" />
+
 	<link rel="canonical" href="{{ .Permalink | absURL }}" />
 	<link rel="dns-prefetch" href="https://www.google-analytics.com" />
-	<link rel="stylesheet" type="text/css" href="{{ "/hugo-cite.css" | relURL }}" />
+	<link rel="stylesheet" type="text/css" href="{{ "/hugo-cite.css" | relURL }}"
+	/>
 	<link href="https://www.google-analytics.com" rel="preconnect" crossorigin />
 	<link
 		rel="alternate"
