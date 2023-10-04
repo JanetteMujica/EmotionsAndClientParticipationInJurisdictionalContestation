@@ -1213,13 +1213,21 @@ figcaption {
 	flex-direction: row;
 	justify-content: center;
 	gap: 1em;
+	font-size: 1em;
+	padding-left: 1em;
+	padding-bottom: 1em;
+	padding-right: 1em;
+}
+
+.buttonContainerHome {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	gap: 1em;
 	font-size: 0.8em;
 	padding-left: 1em;
 	padding-bottom: 1em;
 	padding-right: 1em;
-
-	a {
-	}
 }
 
 .buttonHome {
