@@ -7,7 +7,7 @@ date = [":filename", ":default"]
 identifier = "about"
 name = "About"
 url = "/about"
-weight = 2
+weight = 3
 
 [[menu.main]]
 identifier = "index"
@@ -16,10 +16,10 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-identifier = "print"
-name = "Print"
-url = "/print"
-weight = 3
+identifier = "visualization"
+name = "Visualization"
+url = "/visualization"
+weight = 2
 
 [outputs]
 home = ["HTML"]

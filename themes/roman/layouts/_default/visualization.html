@@ -27,39 +27,46 @@
       {{ end }}
 
 				{{ partial "buttons.html" . }}
-
-				<!-- <div class="post-meta">
-        <a href="impression.html">Version imprimable</a>
-      </div> -->
 				{{ end }} {{ if eq .Type "pages" }}
 				<h1 class="post-title divided p-name" itemprop="name headline">
 					{{ .Title }}
 				</h1>
-
-				<!-- <div class="post-meta">
-        <a href="impression.html">Version imprimable</a>
-      </div> -->
 				{{ end }}
 
 				<div class="post-content e-content" itemprop="articleBody">
-					{{ if .Params.toc }}
-					<h3>Table des matières de la page</h3>
-					{{ .TableOfContents }} {{ end }} 
           
-          {{ if .Params.table1 }}
-          {{ partial "table1.html" . }}
-        {{ end }}
+          <p>To explore further visualization, explore <a href="https://voyant-tools.org/?corpus=be6d96510c3f79c8dd8e392a8f412216&palette=f6667852d49745438406a9330d2b5dce&panels=cirrus,reader,trends,summary,contexts&lang=en">Voyant Tools</a></p>
 
-        {{ if .Params.table2 }}
-        {{ partial "table2.html" . }}
-      {{ end }}
+          {{ if .Params.summary }}
+          <div class="iframe-container">
+            {{ .Params.summary | safeHTML }}
+          </div>
+          {{ end }}
+				</div>
+          
+          {{ if .Params.cloud }}
+          <div class="iframe-container">
+            {{ .Params.cloud | safeHTML }}
+          </div>
+          {{ end }}
 
-          {{ .Content }}
+          {{ if .Params.context }}
+          <div class="iframe-container">
+            {{ .Params.context | safeHTML }}
+          </div>
+          {{ end }}
+
+          {{ partial "buttons.html" . }}
 				</div>
 
-				{{ partial "buttons.html" . }}
+
 			</article>
 			{{ partial "footer.html" . }}
 		</main>
+
 	</body>
 </html>
+
+
+
+
